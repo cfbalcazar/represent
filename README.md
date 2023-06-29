@@ -6,6 +6,8 @@ Analyzing these regression weights can be important because with conventional es
 
 This program estimates the "multiple regression weights", and provides diagnostics using distributional statistics, Lorenz curves, and cloropeth maps. These diagnostics allow one to study the effective sample, and help to determine if a group of observations (for example a country), is driving the effect of the treatment. 
 
+Requirements: ```rehdfre```, ```ineqdeco```, ```shp2dta```, ```spmap```.
+
 To install the package and update it the following command can be used in Stata:
 ```
 net install represent, from (https://raw.githubusercontent.com/cfbalcazar/represent/main/represent/) replace force all
