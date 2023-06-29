@@ -8,7 +8,7 @@ This program estimates the ``multiple regression weights'', and provides diagnos
 
 To install the package and update it the following command can be used in Stata:
 ```
-net install dyadclust, from (https://raw.githubusercontent.com/cfbalcazar/dyadclust/main/dyadclust/) replace force all
+net install represent, from (https://raw.githubusercontent.com/cfbalcazar/represent/main/represent/) replace force all
 ```
 
 Improvements to the code are welcomed.
